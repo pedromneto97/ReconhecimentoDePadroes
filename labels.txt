@@ -1,1 +1,10 @@
-indio praia monumento onibus dinossauro elefante flor cavalo montanha alimento
+alimento
+cavalo
+dinossauro
+elefante
+flor
+indio
+montanha
+monumento
+onibus
+praia
